@@ -4,6 +4,3 @@ Welcome
 hello 
 hi
 
-
-
-thank u
